@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Lato", sans-serif;
+}
+h1,
+h2,
+h3 {
+  color: rgb(47, 47, 47);
+}
+@import "./song";
+@import "./library";
+@import "./player";
