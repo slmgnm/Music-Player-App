@@ -30,6 +30,7 @@ const LibrarySong = ({
     });
 
     setSongs(newSongs);
+    // if (!isPlaying) audioRef.current.play();
   };
   return (
     <div
